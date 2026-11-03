@@ -1,0 +1,18 @@
+# Reverse-engineered game code and extracted game data — never redistribute these.
+# They are produced locally from the user's own copy of the game for analysis only.
+decompiled/
+economy_dump.json
+*.dump.json
+
+# Local scratch / diagnostics
+.tmp/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+.vs/
+
+# Runtime config written by the mod
+ForgeCheat.cfg
